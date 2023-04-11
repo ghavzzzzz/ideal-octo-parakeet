@@ -1,0 +1,20 @@
+h1
+{
+	color: rgb(0, 0, 0); 
+	font-size: 40px;
+}
+.by_backgorund {
+	background-image: url("colorful-backgrounds-11.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#loop{
+	border-width: 20px;
+	background-color: rgb(255, 255, 255);
+	border-style:ridge;
+
+}
+body{
+	cursor: pointer;
+}
